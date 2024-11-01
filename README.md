@@ -22,9 +22,9 @@ It detects Short Hair person as Male even it is Female and Detects Long Hair per
 ## Sample Outputs:
 ### Sample Output 1:
 ![Sample Output 1](https://github.com/vanshk2001/Age_Gender_Hair_Length_Detector/blob/main/Sample_Output1.png)
-### Sample Output 1:
+### Sample Output 2:
 ![Sample Output 2](https://github.com/vanshk2001/Age_Gender_Hair_Length_Detector/blob/main/Sample_Output2.png)
-### Sample Output 1:
+### Sample Output 3:
 ![Sample Output 3](https://github.com/vanshk2001/Age_Gender_Hair_Length_Detector/blob/main/Sample_Output3.png)
-### Sample Output 1:
+### Sample Output 4:
 ![Sample Output 4](https://github.com/vanshk2001/Age_Gender_Hair_Length_Detector/blob/main/Sample_Output4.png)
